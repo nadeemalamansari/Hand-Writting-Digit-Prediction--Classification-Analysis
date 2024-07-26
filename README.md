@@ -1,5 +1,4 @@
-1. Dataset and Problem Definition
-Objective: The goal is to predict the digit (0-9) from images of handwritten digits. This is a typical classification problem where each image is a feature vector, and the digit it represents is the target label.
+1. Dataset and Problem Definition Objective: The goal is to predict the digit (0-9) from images of handwritten digits. This is a typical classification problem where each image is a feature vector, and the digit it represents is the target label.
 
 2. Loading and Exploring the Dataset
 Dataset: We use the digits dataset from scikit-learn, which contains 8x8 pixel images of handwritten digits.
